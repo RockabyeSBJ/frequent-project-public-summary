@@ -1,2 +1,2 @@
 # frequent-project-public-summary
-Public profile for Frequent
+Frequent is an ongoing learning project with mobile, web and Cloud aspects, and leveraging Bicep templates to manage cloud resources.
